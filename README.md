@@ -50,6 +50,10 @@ This dashboard enables banking leadership, regulators, and infrastructure planni
 * `.pbit` template file containing the dashboard structure
 * Data model, calculated measures, and visualization layouts
 
+## Screenshot
+
+Example: ![Dashboard Preview](https://github.com/black5kitten/Bank-ATM-dashboard/blob/main/bank_atm.png)
+
 ## Author
 
 **Akancha Kesarwani**
